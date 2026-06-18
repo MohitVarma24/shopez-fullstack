@@ -1,0 +1,6 @@
+{
+  "name": "ShopEZ",
+  "description": "A complete e-commerce application with dynamic product catalog, multi-user cart, secure orders, and robust role-based admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
